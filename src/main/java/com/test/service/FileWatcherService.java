@@ -14,8 +14,6 @@ import org.apache.commons.io.monitor.FileAlterationObserver;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.test.demo.MyFileMonitor;
-
 public abstract class FileWatcherService {
 
 	public enum MonitorEvent {

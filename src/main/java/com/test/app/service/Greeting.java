@@ -1,4 +1,4 @@
-package com.test.demo;
+package com.test.app.service;
 public class Greeting {
 
 	private final long id;
